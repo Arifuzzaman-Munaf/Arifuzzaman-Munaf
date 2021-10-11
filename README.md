@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arifuzzaman-Munaf
-- 👀 I’m interested in Software Testing,Machine Learning , Cryptography ,Neural Networks and Web development 
+- 👀 I’m interested in Software development and Testing,Machine Learning , Cryptography and Web development 
 - 🌱 I’m currently learning Web Development and Software Testing
 - 💞️ I’m looking to collaborate on web Development and Software Testing
 - 📫 How to reach me : You can text me at arifuzzamanmunaf@gmail.com
