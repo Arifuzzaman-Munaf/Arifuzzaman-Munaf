@@ -23,26 +23,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```python
-class Arif:
-    def __init__(self):
-        self.name = "Md. Arifuzzaman Munaf"
-        self.education = {
-            "masters": "Software Engineering (AI, Advanced) @ Torrens University",
-            "bachelors": "Computer Science @ Brac University (CGPA: 3.75/4.0)"
-        }
-        self.experience = ["Data Science Intern", "SQA Engineer", "Technical Mentor"]
-        self.interests = ["Machine Learning", "Computer Vision", "Healthcare AI"]
-        self.location = "Melbourne, Australia"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+I'm a Software Engineering student specializing in Advanced Artificial Intelligence with a passion for solving real-world problems through machine learning and data-driven approaches. Currently pursuing my Master's at Torrens University in Melbourne, Australia.
 
-me = Arif()
-me.say_hi()
-```
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <br>
 
@@ -122,11 +104,7 @@ me.say_hi()
   <!-- Add more project cards as needed -->
 </div>
 
-### 🔬 DenseNet-based Skin Lesion Classification
-- Developed a **DenseNet-121** model for classifying skin lesions and detecting melanoma
-- Achieved **89% accuracy** in binary melanoma detection
-- Used **5000+ images** from the ISIC 2019 Challenge
-- **Technologies:** PyTorch, OpenCV, scikit-learn
+
 
 <!-- Add more projects as needed -->
 
@@ -147,13 +125,13 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/arifuzzaman-munaf">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" color="blue"/>
   </a>&nbsp;&nbsp;
   <a href="https://medium.com/@arifuzzamanmunaf">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" width="30" color="white"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:md.arifuzzaman.munaf@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="30" color="red"/>
   </a>
 </div>
 
