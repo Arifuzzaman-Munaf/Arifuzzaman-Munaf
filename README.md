@@ -70,24 +70,24 @@ I'm a Software Engineering student specializing in Advanced Artificial Intellige
 
 <div align="center">
   <a href="https://github.com/arifuzzamanmunaf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifuzzamanmunaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Arif's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuzzamanmunaf&layout=compact&langs_count=7&theme=radical" alt="Arif's Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arifuzzaman-Munaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Arif's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifuzzaman-Munaf&layout=compact&langs_count=7&theme=radical" alt="Arif's Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifuzzamanmunaf&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aArifuzzaman-Munaf&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=arifuzzamanmunaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Arifuzzaman-Munaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
 </div>
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Experience
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifuzzamanmunaf&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arifuzzaman-Munaf&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophy"/>
 </div>
 
 | 💼 Designation | 🏢 Organization | ⏰ Timeline |
