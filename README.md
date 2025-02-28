@@ -76,7 +76,7 @@ I'm a Software Engineering student specializing in Advanced Artificial Intellige
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aArifuzzaman-Munaf&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifuzzaman-Munaf&theme=radical" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
