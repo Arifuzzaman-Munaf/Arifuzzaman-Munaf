@@ -71,7 +71,7 @@ I'm a Software Engineering student specializing in Advanced Artificial Intellige
 
 <div align="center">
   <a href="https://github.com/Arifuzzaman-Munaf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arifuzzaman-Munaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Arif's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arifuzzaman-Munaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=120" alt="Arif's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifuzzaman-Munaf&layout=compact&langs_count=7&theme=radical" alt="Arif's Top Languages"/>
   </a>
 </div>
