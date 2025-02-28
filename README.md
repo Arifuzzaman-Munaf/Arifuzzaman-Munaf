@@ -1,138 +1,183 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Munaf;AI+&+Machine+Learning+Enthusiast;Data+Science+Practitioner" alt="Typing SVG" />
-</div>
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" alt="AI Programming Banner">
 
-# 👨‍💻 Md. Arifuzzaman Munaf
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+    Md. Arifuzzaman Munaf
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&height=70&lines=AI+%26+Machine+Learning+Enthusiast;Software+Engineer;Data+Science+Practitioner;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://www.linkedin.com/in/arifuzzaman-munaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://medium.com/@arifuzzamanmunaf"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+    <a href="mailto:md.arifuzzaman.munaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/Melbourne-Australia-success?style=for-the-badge&logo=googlemaps" alt="Location"/>
+  </p>
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arifuzzaman-munaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@arifuzzamanmunaf"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="mailto:md.arifuzzaman.munaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/badge/Melbourne-Australia-success?style=for-the-badge&logo=googlemaps" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=arifuzzamanmunaf&style=for-the-badge&color=ff69b4" alt="Profile Views">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-## 🚀 About Me
+```python
+class Arif:
+    def __init__(self):
+        self.name = "Md. Arifuzzaman Munaf"
+        self.education = {
+            "masters": "Software Engineering (AI, Advanced) @ Torrens University",
+            "bachelors": "Computer Science @ Brac University (CGPA: 3.75/4.0)"
+        }
+        self.experience = ["Data Science Intern", "SQA Engineer", "Technical Mentor"]
+        self.interests = ["Machine Learning", "Computer Vision", "Healthcare AI"]
+        self.location = "Melbourne, Australia"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-I'm a Software Engineering student specializing in **Advanced Artificial Intelligence** with a passion for solving real-world problems through machine learning and data-driven approaches. Currently pursuing my Master's at Torrens University in Melbourne, Australia.
+me = Arif()
+me.say_hi()
+```
 
-## 🔥 Stats
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills & Technologies
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifuzzamanmunaf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuzzamanmunaf&layout=compact&langs_count=7&theme=tokyonight"/>
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Programming</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>AI & Data Science</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+          <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+          <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Tools & Others</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+          <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifuzzamanmunaf&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/arifuzzamanmunaf">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arifuzzamanmunaf&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Arif's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuzzamanmunaf&layout=compact&langs_count=7&theme=radical" alt="Arif's Top Languages"/>
+  </a>
 </div>
 
-## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifuzzamanmunaf&theme=radical" alt="GitHub Streak"/>
 </div>
 
-## 🎓 Education
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=arifuzzamanmunaf&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
+</div>
 
-<details>
-<summary><b>Master of Software Engineering (Artificial Intelligence, Advanced)</b></summary>
-<ul>
-  <li>Torrens University, Melbourne (Nov 2024 - Sep 2026)</li>
-  <li>Focus on advanced AI techniques and applications</li>
-</ul>
-</details>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Experience
 
-<details>
-<summary><b>Bachelor of Science in Computer Science</b></summary>
-<ul>
-  <li>Brac University, Dhaka, Bangladesh (Apr 2017 - Jul 2021)</li>
-  <li>CGPA: 3.75/4.0</li>
-  <li>Thesis: DenseNet based Skin Lesion Classification and Melanoma Detection</li>
-  <li>Academic Achievements:
-    <ul>
-      <li>Dean's List (1 semester)</li>
-      <li>VC's List (3 semesters)</li>
-    </ul>
-  </li>
-</ul>
-</details>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arifuzzamanmunaf&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophy"/>
+</div>
 
-## 💼 Experience
+| 💼 Designation | 🏢 Organization | ⏰ Timeline |
+| :-: | :-: | :-: |
+| Data Science and ML Intern | Edureka | Oct 2024 - Apr 2025 |
+| Associate SQA Engineer | Brain Station 23 | Mar 2022 - Nov 2023 |
+| Mentor, Knowledge Team | Shikho Technologies Limited | Oct 2021 - Apr 2023 |
 
-<details>
-<summary><b>Data Science and Machine Learning Intern</b> | Edureka (Oct 2024 - Apr 2025)</summary>
-<ul>
-  <li>Enhanced predictive accuracy with ML models, driving data insights</li>
-  <li>Analyzed large datasets to generate actionable insights</li>
-  <li>Applied machine learning algorithms to real-world datasets</li>
-</ul>
-</details>
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Projects
 
-<details>
-<summary><b>Associate SQA Engineer</b> | Brain Station 23 (Mar 2022 - Nov 2023)</summary>
-<ul>
-  <li>Conducted software testing to enhance product quality</li>
-  <li>Performed thorough regression testing and defect tracking</li>
-  <li>Developed an automated testing suite for an IoT-based system, reducing manual QA effort by 30%</li>
-</ul>
-</details>
+<div align="center">
+  <a href="https://github.com/arifuzzamanmunaf/skin-lesion-classification">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifuzzamanmunaf&repo=skin-lesion-classification&theme=radical" alt="Skin Lesion Classification"/>
+  </a>
+  <!-- Add more project cards as needed -->
+</div>
 
-<details>
-<summary><b>Mentor, Knowledge Team</b> | Shikho Technologies Limited (Oct 2021 - Apr 2023)</summary>
-<ul>
-  <li>Collaborated with educators to design curriculum</li>
-  <li>Mentored students through personalized learning strategies</li>
-  <li>Analyzed student performance data to develop targeted intervention strategies</li>
-</ul>
-</details>
-
-## 📌 Featured Projects
-
-<details>
-<summary><b>🔬 DenseNet-based Skin Lesion Classification</b></summary>
-<ul>
-  <li>Developed a DenseNet-121 model for classifying skin lesions and detecting melanoma</li>
-  <li>Used 5000+ images from the ISIC 2019 Challenge</li>
-  <li>Achieved 80% accuracy on imbalanced data, 84% on balanced data, and 89% in binary melanoma detection</li>
-  <li><b>Technologies:</b> PyTorch, OpenCV, scikit-learn</li>
-</ul>
-</details>
+### 🔬 DenseNet-based Skin Lesion Classification
+- Developed a **DenseNet-121** model for classifying skin lesions and detecting melanoma
+- Achieved **89% accuracy** in binary melanoma detection
+- Used **5000+ images** from the ISIC 2019 Challenge
+- **Technologies:** PyTorch, OpenCV, scikit-learn
 
 <!-- Add more projects as needed -->
 
-## 📊 My Contributions
-  
+## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="35"> Education
+
+| 🎓 Degree | 🏫 Institution | 📆 Timeline |
+| :-: | :-: | :-: |
+| Master of Software Engineering (AI, Advanced) | Torrens University | Nov 2024 - Sep 2026 |
+| Bachelor of Science in Computer Science | Brac University | Apr 2017 - Jul 2021 |
+
+### 🏆 Achievements
+
+- **Thesis:** DenseNet based Skin Lesion Classification and Melanoma Detection
+- **Academic Achievements:**
+  - Dean's List (1 semester)
+  - VC's List (3 semesters)
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifuzzamanmunaf&theme=tokyonight" alt="contribution graph"/>
+  <a href="https://www.linkedin.com/in/arifuzzaman-munaf">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@arifuzzamanmunaf">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" width="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:md.arifuzzaman.munaf@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="30"/>
+  </a>
 </div>
 
-## 📚 Certifications
-- IBM Data Science Professional Certificate
-- CS50's Introduction to Artificial Intelligence with Python (HarvardX)
+<br>
 
-## 🌱 Currently Learning
-- Advanced Deep Learning techniques
-- MLOps and Model Deployment at scale
-- Cloud-based AI solutions
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Currently Learning
 
-## 📫 How to reach me
-- 📧 Email: md.arifuzzaman.munaf@gmail.com
-- 📱 Phone: +61 434506710
-- 🔗 LinkedIn: [arifuzzaman-munaf](https://www.linkedin.com/in/arifuzzaman-munaf)
-- ✍️ Medium: [@arifuzzamanmunaf](https://medium.com/@arifuzzamanmunaf)
+<div align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-212121?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/Cloud%20AI-4285F4?style=for-the-badge" alt="Cloud AI"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifuzzamanmunaf&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  
-  <h4>💖 If you find my projects helpful, please consider starring them! 💖</h4>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+</div>
+
+<div align="center">
+  <h4>💖 If you find my projects helpful, please consider giving them a ⭐! 💖</h4>
 </div>
