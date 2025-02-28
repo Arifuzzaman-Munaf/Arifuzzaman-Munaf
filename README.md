@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arif;AI+%26+Machine+Learning+Enthusiast;Software+Engineer;Data+Science+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Munaf;AI+%26+Machine+Learning+Enthusiast;Data+Science+Practitioner" alt="Typing SVG" />
 </div>
 
 # 👨‍💻 Md. Arifuzzaman Munaf
