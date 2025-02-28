@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&height=70&lines=AI+%26+Machine+Learning+Enthusiast;Software+Engineer;Data+Science+Practitioner;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+
   
   <p>
     <a href="https://www.linkedin.com/in/arifuzzaman-munaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
