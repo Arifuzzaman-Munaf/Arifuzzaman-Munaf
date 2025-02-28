@@ -97,14 +97,14 @@ I'm a Software Engineering student specializing in Advanced Artificial Intellige
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Projects
 
-<div align="center">
-  <a href="https://github.com/arifuzzamanmunaf/skin-lesion-classification">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arifuzzamanmunaf&repo=skin-lesion-classification&theme=radical" alt="Skin Lesion Classification"/>
-  </a>
-  <!-- Add more project cards as needed -->
-</div>
 
 
+🔬 DenseNet-based Skin Lesion Classification
+
+Developed a DenseNet-121 model for classifying skin lesions and detecting melanoma
+Achieved 89% accuracy in binary melanoma detection
+Used 5000+ images from the ISIC 2019 Challenge
+Technologies: PyTorch, OpenCV, scikit-learn
 
 <!-- Add more projects as needed -->
 
@@ -122,18 +122,34 @@ I'm a Software Engineering student specializing in Advanced Artificial Intellige
   - Dean's List (1 semester)
   - VC's List (3 semesters)
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/arifuzzaman-munaf">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" color="blue"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://medium.com/@arifuzzamanmunaf">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" width="30" color="white"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>&nbsp;
   <a href="mailto:md.arifuzzaman.munaf@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="30" color="red"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://github.com/arifuzzamanmunaf">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+<div align="center">
+  <br>
+  <a href="https://twitter.com/arifuzzamanmunaf">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="https://www.kaggle.com/arifuzzamanmunaf">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/arifuzzamanmunaf">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</div>
+<br>
 
 <br>
 
