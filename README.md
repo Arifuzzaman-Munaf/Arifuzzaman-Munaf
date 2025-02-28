@@ -25,7 +25,6 @@
 
 I'm a Software Engineering student specializing in Advanced Artificial Intelligence with a passion for solving real-world problems through machine learning and data-driven approaches. Currently pursuing my Master's at Torrens University in Melbourne, Australia.
 
-
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills & Technologies
