@@ -94,32 +94,7 @@ I'm a Software Engineering student specializing in Advanced Artificial Intellige
 | Associate SQA Engineer | Brain Station 23 | Mar 2022 - Nov 2023 |
 | Mentor, Knowledge Team | Shikho Technologies Limited | Oct 2021 - Apr 2023 |
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Projects
 
-
-
-🔬 DenseNet-based Skin Lesion Classification
-
-Developed a DenseNet-121 model for classifying skin lesions and detecting melanoma
-Achieved 89% accuracy in binary melanoma detection
-Used 5000+ images from the ISIC 2019 Challenge
-Technologies: PyTorch, OpenCV, scikit-learn
-
-<!-- Add more projects as needed -->
-
-## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="35"> Education
-
-| 🎓 Degree | 🏫 Institution | 📆 Timeline |
-| :-: | :-: | :-: |
-| Master of Software Engineering (AI, Advanced) | Torrens University | Nov 2024 - Sep 2026 |
-| Bachelor of Science in Computer Science | Brac University | Apr 2017 - Jul 2021 |
-
-### 🏆 Achievements
-
-- **Thesis:** DenseNet based Skin Lesion Classification and Melanoma Detection
-- **Academic Achievements:**
-  - Dean's List (1 semester)
-  - VC's List (3 semesters)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with Me
 <div align="center">
@@ -166,11 +141,8 @@ Technologies: PyTorch, OpenCV, scikit-learn
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
+
 
 <div align="center">
-  <h4>💖 If you find my projects helpful, please consider giving them a ⭐! 💖</h4>
+  <h4> If you find my projects helpful, please consider giving them a ⭐! </h4>
 </div>
